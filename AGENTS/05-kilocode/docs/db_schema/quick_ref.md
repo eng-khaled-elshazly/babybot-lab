@@ -70,6 +70,9 @@ IS_ACTIVE         CHAR(1)       -- Y/N
 
 ## 🎯 Resources
 
+**Complete Objects Inventory:**  
+📄 [ERP2026_OBJECTS.md](./ERP2026_OBJECTS.md) — Full list of all 322 objects in schema
+
 **Full Schema Export:**  
 `mega-engineering-hub/tools/BB_BUILDER/context_exports/`
 
