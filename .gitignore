@@ -1,0 +1,27 @@
+# Temporary files
+TEMP/onboarding/*
+TEMP/exports/*
+!TEMP/onboarding/.gitkeep
+!TEMP/exports/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# Logs
+*.log
