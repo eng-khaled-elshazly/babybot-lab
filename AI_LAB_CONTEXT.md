@@ -20,10 +20,11 @@
 - تنفيذ الـ workflows
 - إدارة الـ memory system
 
-### Agent 03 (OpenClaw — CSS Specialist)
+### Agent 03 (ChatGPT — APEX Builder)
+- بناء صفحات APEX
 - تصميم الـ UI/UX
-- CSS patterns
-- Styling frameworks
+- CSS patterns & styling
+- Front-end development
 
 ### Agent 05 (KiloCode — Code Optimizer)
 - Code snippets

@@ -11,7 +11,7 @@
 **الأعضاء:**
 - **Agent 09 (Claude)** — Design & Architecture
 - **Agent 01 (Claude)** — Automation & Scripting
-- **Agent 03 (OpenClaw)** — CSS & Styling
+- **Agent 03 (ChatGPT)** — APEX Builder + CSS & Styling
 - **Agent 05 (KiloCode)** — Code Snippets & Optimization
 
 ---

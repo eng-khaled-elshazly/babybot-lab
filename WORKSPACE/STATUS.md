@@ -30,7 +30,7 @@
 **Last Active:** 2026-04-08  
 **Contributions:** Repository setup
 
-### Agent 03 (OpenClaw — CSS)
+### Agent 03 (ChatGPT — APEX Builder)
 **Last Active:** N/A  
 **Contributions:** Pending
 

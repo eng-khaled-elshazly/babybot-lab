@@ -11,7 +11,7 @@
 | **MEGA** (خالد الشازلي) | Human | Project Owner — القرارات النهائية |
 | **09** | Claude (claude.ai) | Senior Architect |
 | **01** | Claude Code (CLI/VS Code) | Executor — Oracle + Git + BB_BUILDER |
-| **03** | OpenClaw (kilosessions.ai) | APEX Builder + CSS + Front-end |
+| **03** | ChatGPT | APEX Builder + CSS + Front-end |
 | **05** | Kilo Code (VS Code) | Code Generation + Second Opinion |
 
 ---
@@ -91,7 +91,7 @@ babybot-lab/ (public)
     ├── 01-claude/
     │   ├── notes.md
     │   └── scripts/
-    ├── 03-openclaw/
+    ├── 03-chatgpt/
     │   ├── notes.md
     │   └── css/
     └── 05-kilocode/

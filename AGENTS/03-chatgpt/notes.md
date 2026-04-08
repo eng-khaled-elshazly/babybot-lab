@@ -1,16 +1,21 @@
-# 🎨 Agent 03 — CSS & Styling Notes
+# 🎨 Agent 03 — ChatGPT
+
+**APEX Builder + CSS + Front-end**
 
 ---
 
 ## 👤 الدور
 
-**CSS Specialist**
+**APEX Builder & CSS Specialist**
 
 المسؤول عن:
+- بناء صفحات APEX
 - تصميم الـ UI/UX
-- CSS patterns
-- Styling frameworks
+- CSS patterns & styling
+- Front-end development
 - Visual consistency
+
+**Platform:** ChatGPT
 
 ---
 
