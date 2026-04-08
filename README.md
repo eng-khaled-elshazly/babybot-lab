@@ -20,13 +20,25 @@
 
 ```
 babybot-lab/
-├── AI_LAB_CONTEXT.md       # سياق المختبر والأهداف
-├── PATTERNS.md              # الأنماط المعتمدة
-├── DECISIONS.md             # القرارات الهندسية
+├── README.md                # المقدمة الرئيسية
+├── docs/                    # الوثائق
+│   ├── AI_LAB_CONTEXT.md   # سياق المختبر والأهداف
+│   ├── TEAM_CONTEXT.md     # سياق الفريق والأدوار
+│   ├── PATTERNS.md         # الأنماط المعتمدة
+│   └── DECISIONS.md        # القرارات الهندسية
 ├── TEMP/                    # ملفات مؤقتة
 ├── WORKSPACE/               # مساحة العمل النشطة
 └── AGENTS/                  # مساحة كل Agent
 ```
+
+---
+
+## 📚 الوثائق
+
+- **[TEAM_CONTEXT.md](docs/TEAM_CONTEXT.md)** — دليل الفريق الكامل (الأدوار، القواعد، Templates)
+- **[AI_LAB_CONTEXT.md](docs/AI_LAB_CONTEXT.md)** — سياق المختبر والأهداف
+- **[PATTERNS.md](docs/PATTERNS.md)** — الأنماط المعتمدة
+- **[DECISIONS.md](docs/DECISIONS.md)** — سجل القرارات الهندسية (ADR)
 
 ---
 
