@@ -5,26 +5,18 @@
 
 ---
 
-## Known Pages
+## Complete Reference Available
 
-| Page | Description | Status |
-|------|-------------|--------|
-| 2000 | Dashboard | Not started |
-| 2001 | ? | Needs fix |
-| 2002 | ? | Not started |
-| 2003 | Interactive Report | ✅ Done |
-| 2004 | Modal Form | ✅ Done |
-| 2005-2015 | Various | Various |
+✅ **Full reference:** `app_reference.md` (loaded from f110 export)
 
----
+### Quick Links
 
-## Template IDs (Reference)
-
-- Button Template: 4072362960822175091
-- IR Region: 2100526641005906379
-- Form Region: 4072358936313175081
-- Modal Page: 2101157952850466385
+- Page Groups → `app_reference.md`
+- All Pages (1000-2025) → `app_reference.md`
+- Template IDs → `app_reference.md`
+- Navigation Menu → `app_reference.md`
+- Application Items → `app_reference.md`
 
 ---
 
-*Last Updated: 2026-04-08*
+*See `app_reference.md` for complete details | Updated: 2026-04-08*

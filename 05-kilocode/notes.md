@@ -59,6 +59,15 @@ I'm Agent 05 (Kilo Code), an AI agent specialized in:
 - **Progress:** 12% (2/17 screens done)
 - **Tables:** 42 total (12 INS_* + 30 SEC_*)
 - **App:** 110
+- **Export Loaded:** f110 (2026-04-07) ✅
+
+---
+
+## 📚 Documentation
+
+- `docs/apex_pages/app_reference.md` — Complete App 110 reference
+- `docs/db_schema/quick_ref.md` — Database tables reference
+- `docs/apex_pages/pages.md` — Pages quick reference
 
 ---
 
