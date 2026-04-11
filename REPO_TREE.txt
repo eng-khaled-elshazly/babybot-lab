@@ -1,0 +1,63 @@
+# BABYBOT-LAB — Repository Structure
+
+**Last Updated:** 2026-04-11
+**Commit:** ff51091
+
+## Directory Tree
+
+.
+./AGENTS
+./AGENTS/01-claude-leader
+./AGENTS/01-claude-leader/scripts
+./AGENTS/02-cursor
+./AGENTS/03-chatgpt
+./AGENTS/03-chatgpt/css
+./AGENTS/03-chatgpt/docs
+./AGENTS/03-chatgpt/docs/db_schema
+./AGENTS/05-gemini
+./AGENTS/09-claude-assi
+./AGENTS/09-claude-assi/designs
+./PATTERNS
+./PATTERNS/connections
+./PATTERNS/error-kb
+./PATTERNS/rules
+./PATTERNS/templates
+./PROJECT
+./SCREENS
+./SCREENS/done
+./SCREENS/in-progress
+./SCREENS/planned
+./TEMP
+./TEMP/exports
+./TEMP/onboarding
+./WORKSPACE
+./docs
+
+## All Files
+
+./AGENTS/01-claude-leader/notes.md
+./AGENTS/03-chatgpt/docs/db_schema/ERP2026_OBJECTS.md
+./AGENTS/03-chatgpt/notes.md
+./AGENTS/05-gemini/README.md
+./AGENTS/09-claude-assi/FULL_CONTEXT_REPORT.md
+./AGENTS/09-claude-assi/TABLES_DETAIL.md
+./AGENTS/09-claude-assi/notes.md
+./PATTERNS/error-kb/known-errors.md
+./PATTERNS/rules/db-standards.md
+./PATTERNS/rules/golden-rules.md
+./PATTERNS/rules/schema-corrections.md
+./PATTERNS/templates/apex-page-templates.md
+./PROJECT/00-overview.md
+./PROJECT/01-security-module.md
+./PROJECT/02-riada-module.md
+./README.md
+./REPO_TREE.txt
+./SCREENS/all-screens.md
+./WORKSPACE/APP110_PAGES.md
+./WORKSPACE/RESTRUCTURE_REPORT.md
+./WORKSPACE/STATUS.md
+./WORKSPACE/TASKS.md
+./docs/AI_LAB_CONTEXT.md
+./docs/DECISIONS.md
+./docs/PATTERNS.md
+./docs/TEAM_CONTEXT.md

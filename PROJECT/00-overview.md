@@ -235,8 +235,8 @@ Theme is stored in `SEC_USERS.MODULE_CARD_STYLE` and loaded server-side via HTML
 |-------|------|-----------------|
 | **01-claude-leader** | Architect + Task Definer | System design, task specs, APEX script templates |
 | **02-cursor** | Execution Engine | SQL, PL/SQL, APEX scripts — runs what 01 defines |
-| **03-copilot** | Speed Assistant | CSS fixes, JS snippets, quick refinements |
-| **04-chatgpt** | Second Opinion | Consulted only when there is genuine ambiguity |
+| **03-chatgpt** | Second Opinion | Consulted only when there is genuine ambiguity |
+| **05-gemini** | Automated Auditor | Bulk scanning, file fixes, git operations — needs approval first |
 | **09-claude-assi** | Support | Documentation, research, analysis tasks |
 
 **Golden Rule for all agents:**
